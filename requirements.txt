@@ -1,0 +1,6 @@
+etw-pytorch-utils
+torch>=1.0.0
+torchvision
+future
+numpy
+h5py
